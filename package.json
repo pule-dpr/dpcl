@@ -1,8 +1,8 @@
 {
   "private": false,
-  "name": "@cloud-app-dev/vidc",
-  "description": "Video Image Data Componennts",
-  "version": "3.2.10",
+  "name": "dpcl",
+  "description": "Data Public Componennts Library",
+  "version": "0.0.1",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
