@@ -30,13 +30,11 @@
     ]
   },
   "dependencies": {
-    "@cloud-app-dev/flv.js": "^1.0.3",
     "@turf/boolean-disjoint": "^6.5.0",
     "@turf/helpers": "^6.5.0",
     "@turf/line-to-polygon": "^6.5.0",
     "ahooks": "^3.7.0",
     "axios": "^0.27.2",
-    "hls.js": "^1.2.1",
     "immer": "^9.0.15",
     "lodash-es": "^4.17.21",
     "moment": "^2.29.4",
@@ -45,7 +43,6 @@
     "screenfull": "^6.0.2"
   },
   "devDependencies": {
-    "@cloud-app-dev/utils": "^4.0.1",
     "@testing-library/react-hooks": "^8.0.1",
     "@types/jest": "^29.0.1",
     "@types/leaflet": "^1.7.11",
