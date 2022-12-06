@@ -19,7 +19,7 @@ function writeFile(path, data) {
 
 async function run() {
   try {
-    const url = path.resolve(__dirname, './src/Player/style/iconfont.js');
+    const url = path.resolve(__dirname, './iconfont.js');
     const str = await readFile(url);
     const newStr = str.replace(/fill="\S+"/g, '');
     await writeFile(url, newStr);
