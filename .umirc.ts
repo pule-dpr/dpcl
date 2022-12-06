@@ -6,7 +6,7 @@ const token =
   'eyJhbGciOiJIUzI1NiJ9.eyJvcmdhbml6YXRpb25JZCI6IjEwMDEwMTAwMDQ0NSIsImV4dCI6MTY2NTc0ODU1OTg5MSwidWlkIjoiMTAxMDAwMDAwNjk5IiwidmFsaWRTdGF0ZSI6MTA0NDA2LCJyb2xlSWQiOlsxMDAwMDAxMTA1MTgsMTAwMDAwMTEwNzI4XSwidmFsaWRUaW1lIjoxNzA0MzgzOTk5MDAwLCJvcHRDZW50ZXJJZCI6IjEwMDEwMDAwMDIzMyIsInVzZXJUeXBlIjoxMDA3MDQsImlhdCI6MTY2NTQ4OTM1OTg5MX0.zxxxxoaKjyO6CJhi2cs06gTOtjdLgPA9UI7zAQ0zzss';
 
 export default defineConfig({
-  title: 'CloudApp VIDC',
+  title: 'DPCL',
   favicon: 'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
   logo: 'https://user-images.githubusercontent.com/9554297/83762004-a0761b00-a6a9-11ea-83b4-9c8ff721d4b8.png',
   outputPath: 'docs-dist',

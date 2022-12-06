@@ -1,8 +1,8 @@
 ---
-title: CloudApp VIDC - 开发者使用文档.
+title: DPCL - 开发者使用文档.
 order: 10
 hero:
-  title: CloudApp VIDC 组件库
+  title: DPCL 组件库
   desc: 📖 视频云APASS前端框架中集成微应用的基础组件库开发文档.
   actions:
     - text: 使用指南

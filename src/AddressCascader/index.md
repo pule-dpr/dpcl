@@ -1,5 +1,5 @@
 ---
-title: 输入框 Input
+title: 地域级联下拉框 AntCascader
 nav:
   path: /components
   title: 组件库
@@ -10,27 +10,22 @@ group:
   order: 1
 ---
 
-## Input 文本输入
+## AntCascader 地域级联下拉框
 
 主题布局容器组件。
 
 ### 何时使用
 
-常用于盒子标题部分
+常用于行政区划选择
 
 ### 代码演示
 
 ```tsx
 import React from 'react';
-import Input from './index';
-import { ConfigProvider } from 'antd';
+import Demo from './demo';
 
 const App = () => {
-  return (
-    <ConfigProvider prefixCls="cloudapp">
-      <Input onChange={console.log} />
-    </ConfigProvider>
-  );
+  return <Demo />;
 };
 export default App;
 ```
